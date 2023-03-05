@@ -1,2 +1,1 @@
-This is simply a test file
-Additionally, this sentence is meaningless.
+This is simply a test file.
